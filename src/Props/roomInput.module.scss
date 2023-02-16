@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+/* inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.roomInput_container {
+  margin: 0;
+  padding: 0%;
+}
+.room_name {
+  font-family: 'Poppins';
+}
+.roomsInput_wrapper {
+  background-color: #ffff;
+  width: 237.62px;
+  display: flex;
+  font-family: 'Poppins';
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgb(214, 214, 214);
+}
+.room_quantity {
+  display: flex;
+  align-items: center;
+}
+.add {
+  margin: 5px;
+  padding: 6px;
+  text-align: center;
+  width: 20px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  height: 23px;
+  align-items: center;
+  border-radius: 3px;
+  border: none;
+  background: rgb(214, 214, 214);
+}

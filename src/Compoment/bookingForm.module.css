@@ -1,0 +1,76 @@
+.booking_form_inputs {
+  margin: 2px;
+  /* padding: 2px 5%; */
+}
+.Booking_form {
+  border: 3px solid rgb(214, 214, 214);
+}
+.main3_sidebar {
+  width: 270px;
+  height: 535px;
+  padding-top: 22px;
+}
+.booking_form_inputs1 {
+  display: flex;
+}
+.select {
+  padding: 9px;
+  padding-top: 4px;
+  width: 97%;
+  margin-top: 11px;
+}
+
+.booking_inputs {
+  margin: 3px;
+  padding: 6px;
+  font-family: 'Poppins';
+}
+
+.book_now {
+  padding: 13px;
+  width: 97%;
+  text-align: center;
+  color: white;
+  background-color: rgb(78, 78, 250);
+  border: 1px;
+  border-radius: 4px;
+}
+
+/* .booking_form {
+    margin-left: -36%;
+        margin-right: 30%;
+} */
+.green {
+  color: green;
+}
+.bolder {
+  font-weight: bolder;
+}
+.points {
+  background-color: green;
+  color: white;
+  border: 1px;
+  font-weight: bold;
+}
+
+.total_reviews {
+  padding: 5px 35px;
+}
+
+.booked {
+  padding-left: 39px;
+}
+
+.booked_time {
+  color: rgb(238, 44, 76);
+}
+
+.lines {
+  padding-left: 44px;
+}
+
+.rates {
+  list-style: none;
+  margin: 2.2px;
+  padding-top: 9.4px;
+}
