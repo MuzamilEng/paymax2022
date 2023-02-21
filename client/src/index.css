@@ -1,0 +1,50 @@
+.black{
+    background-color: #111827;
+}
+.grey{
+    color: #4B5563;
+}
+.l_grey{
+color: #A7A7A7;
+}
+.background{
+    background: #FFFFFF;
+}
+.blue{
+    background: #573AE8;
+}
+.l_blue{
+    background-color: #1877F2;
+}
+.white{
+background: #F9F9F9;}
+.black1{
+ color: #000000;
+}
+.red{
+    background: #FA0200;
+}
+.wrapper {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.no_decorate{
+    text-decoration: none;
+}
+.image_muzi{
+    width: 200px;
+    height: 200px;
+}
+.upload_img{
+    width: 254px;
+        height: 138px;
+        border-radius: 70px;
+}

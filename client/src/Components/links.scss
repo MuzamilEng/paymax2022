@@ -1,0 +1,42 @@
+.container_links{
+    width: 100vh;
+    height: 100vh;
+}
+.links_page_container{
+    display: flex;
+}
+.column_container1{
+    display: flex;
+    margin-left: -10%;
+    padding-top: 9%;
+}
+.save_btn{
+    position: relative;
+        bottom: 17rem;
+        left: 28rem;
+}
+.title_link{
+    display: flex;
+    padding-left: 2%;
+}
+.links_page_column{
+    margin: 2px;
+    padding: 10px;
+    padding-left: -3%;
+}
+.equal1{
+    position: relative;
+    top: 44px;
+}
+.equal2 {
+    position: relative;
+    top: 112px;
+}
+.equal3 {
+    position: relative;
+    top: 180px;
+}
+.equal4 {
+    position: relative;
+    top: 253px;
+}

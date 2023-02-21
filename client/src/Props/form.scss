@@ -1,0 +1,83 @@
+.form_container{
+    font-family: 'Mulish';
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}
+.form_body{
+            width: 480px;
+            height: 560px;
+}
+.logo_img{
+    width: 135px;
+        height: 44px;
+        margin-left: 20%;
+}
+.input_section{
+    display: flex;
+    flex-direction: row;
+}
+.input_button{
+    width: 460px;
+    height: 52px;
+    border: none;
+    border-radius: 20px;
+    margin: 3px;
+    margin-top: 5%;
+    padding: 3px 3%;
+}
+.btn{
+    width: 460px;
+    height: 52px;
+    border: none;
+    border-radius: 20px;
+    margin: 3px;
+    margin-top: 5%;
+    padding: 6px;
+    padding-top: 3px;
+    color: #FFFFFF;
+}
+.label{
+    display: inline-block;
+    position: relative;
+    top: 2%;
+    left: 2%;
+}
+.eye_icon{
+    max-width: 24px;
+    height: 24px;
+    padding-top: 8%;
+    margin-left: -12%;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+}
+.icon{
+    width: 148px;
+    height: 52px;
+border: 1px solid #DBDBDB;
+    border-radius: 15px;
+    margin: 3px;
+    margin-top: 5%;
+}
+.icon_img{
+    width: 24px;
+        height: 24px;
+        border-radius: 30px;
+        position: relative;
+        left: 40%;
+        top: 25%;
+    
+}
+.signup_para{
+    margin-left: 12%;
+}
+.signup{
+    margin-top: 7%;
+    padding: 2px;
+}
+.signup_a{
+    text-decoration: none;
+}

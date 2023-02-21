@@ -1,0 +1,32 @@
+.container1 {
+    display: flex;
+    // max: 200px;
+}
+
+.first_container {
+    display: flex;
+    height: 100vh;
+    width: 180px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 2px;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+}
+
+.r_anchor_tag {
+    padding-top: 12px;
+}
+
+.anchor_tag3 {
+    position: relative;
+    bottom: 7rem;
+}
+
+.seprator_line {
+    height: 100vh;
+}
