@@ -1,0 +1,36 @@
+{
+    "name": "PayMax",
+    "version": "0.1.0",
+    "private": true,
+    "engines": {
+        "node": "12.16.2",
+        "npm": "6.14.4"
+    },
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+         "start": "NODE_ENV=production node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass": "node-sass --watch scss/main.scss css/style.css --source-map css/style.css.map"
+    },
+    "dependencies": {
+        "moment": "^2.29.1",
+        "next": "^10.2.3",
+        "react": "^16.2.0",
+        "react-bootstrap": "^1.5.0",
+        "react-countup": "^4.3.3",
+        "react-dom": "^16.2.0",
+        "react-google-recaptcha": "^2.1.0",
+        "react-modal-video": "1.2.6",
+        "react-rangeslider": "^2.2.0",
+        "react-router-dom": "^5.2.0",
+        "react-scroll-to-top": "^1.0.5",
+        "react-slick": "^0.28.0",
+        "react-visibility-sensor": "^5.1.1",
+        "sass": "^1.54.4",
+        "simple-react-lightbox": "^3.6.6",
+        "slick-carousel": "^1.8.1",
+        "use-scroll-position": "0.0.4",
+        "wowjs": "^1.1.3"
+    }
+}
